@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reacttodo/static/css/main.f0e31a2e.chunk.css",
-    "main.js": "/reacttodo/static/js/main.5e0a4b01.chunk.js",
-    "main.js.map": "/reacttodo/static/js/main.5e0a4b01.chunk.js.map",
-    "runtime-main.js": "/reacttodo/static/js/runtime-main.401638ab.js",
-    "runtime-main.js.map": "/reacttodo/static/js/runtime-main.401638ab.js.map",
-    "static/js/2.882db2b9.chunk.js": "/reacttodo/static/js/2.882db2b9.chunk.js",
-    "static/js/2.882db2b9.chunk.js.map": "/reacttodo/static/js/2.882db2b9.chunk.js.map",
-    "index.html": "/reacttodo/index.html",
-    "precache-manifest.9e58c7495b99c93af3bfdc5b56ec21fc.js": "/reacttodo/precache-manifest.9e58c7495b99c93af3bfdc5b56ec21fc.js",
-    "service-worker.js": "/reacttodo/service-worker.js",
-    "static/css/main.f0e31a2e.chunk.css.map": "/reacttodo/static/css/main.f0e31a2e.chunk.css.map",
-    "static/js/2.882db2b9.chunk.js.LICENSE.txt": "/reacttodo/static/js/2.882db2b9.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/reacttodo/static/media/logo.cb743d43.png"
+    "main.css": "/react-todo/static/css/main.f0e31a2e.chunk.css",
+    "main.js": "/react-todo/static/js/main.5e0a4b01.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.5e0a4b01.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.75ce8662.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.75ce8662.js.map",
+    "static/js/2.499abc6e.chunk.js": "/react-todo/static/js/2.499abc6e.chunk.js",
+    "static/js/2.499abc6e.chunk.js.map": "/react-todo/static/js/2.499abc6e.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "precache-manifest.d2fa9c377d4dad38ae73047dcb0db996.js": "/react-todo/precache-manifest.d2fa9c377d4dad38ae73047dcb0db996.js",
+    "service-worker.js": "/react-todo/service-worker.js",
+    "static/css/main.f0e31a2e.chunk.css.map": "/react-todo/static/css/main.f0e31a2e.chunk.css.map",
+    "static/js/2.499abc6e.chunk.js.LICENSE.txt": "/react-todo/static/js/2.499abc6e.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/react-todo/static/media/logo.cb743d43.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.401638ab.js",
-    "static/js/2.882db2b9.chunk.js",
+    "static/js/runtime-main.75ce8662.js",
+    "static/js/2.499abc6e.chunk.js",
     "static/css/main.f0e31a2e.chunk.css",
     "static/js/main.5e0a4b01.chunk.js"
   ]
