@@ -1,6 +1,6 @@
 Simple Todo App on React/Redux/TailWind CSS
 
-[Demo](https://iadil.github.io/reacttodo/)
+[Demo](https://iadil.github.io/react-todo/)
 
 
 ## Available Scripts
